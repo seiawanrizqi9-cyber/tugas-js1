@@ -1,21 +1,22 @@
-// //Soal 1
-log/info/debug //cetak biasa.
+// // //Soal 1
+// log/info/debug //cetak biasa.
 
-warn/error //tandai masalah.
+// warn/error //tandai masalah.
 
-table/dir/dirxml //tampilkan data dengan format rapi.
+// table/dir/dirxml //tampilkan data dengan format rapi.
 
-group/groupCollapsed/groupEnd //bikin output berkelompok.
+// group/groupCollapsed/groupEnd //bikin output berkelompok.
 
-count/countReset //hitung jumlah panggilan.
+// count/countReset //hitung jumlah panggilan.
 
-time/timeLog/timeEnd/timeStamp //ukur performa.
+// time/timeLog/timeEnd/timeStamp //ukur performa.
 
-assert/trace //cek kondisi & jejak fungsi.
+// assert/trace //cek kondisi & jejak fungsi.
 
-document.getElementById //untuk mengambil ID
+// document.getElementById //untuk mengambil ID
 
-innerHTML //untuk menampilkan kata dalam tag
+// innerHTML //untuk menampilkan kata dalam tag
+
 
 //Level 1
 //1
